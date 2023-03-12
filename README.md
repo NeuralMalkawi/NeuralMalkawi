@@ -1,15 +1,21 @@
-### Hi there 👋
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="https://github.com/NeuralMalkawi" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Omar and I like python" src="images/personal_note.svg" />
+  <br />
+  <br />
 
-**NeuralMalkawi/NeuralMalkawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Social -->
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://instagram.com/0marmalkawii">
+<strong>Visit my personal website </strong>
+<br />
+<br />
+<br />
 
